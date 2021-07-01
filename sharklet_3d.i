@@ -23,7 +23,8 @@
 [Functions]
   [./image_func]
     type = ImageFunction
-    file_base = sharklet_images_stack/shkstack
+    #file_base = sharklet_images_stack/shkstack
+    file_base = rods_images_stack/RodsRef
     file_suffix = png
     file_range = '0 255'
     component = 0
